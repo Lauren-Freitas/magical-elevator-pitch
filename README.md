@@ -1,5 +1,7 @@
 📖 Projeto EBOOK Gerado por I.A.s
 
+![Banner do projeto](assets/Banner.png)
+
 
 🪄 Harry Potter – O Elevator Pitch Mágico ✨
 📚 Uma adaptação criativa do meu eBook sobre Elevator Pitch, transformando-o em uma aventura bruxa onde Harry Potter enfrenta seu maior desafio: conquistar uma vaga de Auror no Ministério da Magia.
