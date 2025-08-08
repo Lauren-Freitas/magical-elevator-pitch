@@ -32,5 +32,5 @@ Tenho um eBook pronto sobre Elevator Pitch. Quero que você adapte o conteúdo p
 
 👩‍💻 Autora
 Lauren Freitas
-💼 LinkedIn - https://www.linkedin.com/in/laurend-freitas/
+💼 [LinkedIn](https://www.linkedin.com/in/laurend-freitas/)
 📚 Baseado no conteúdo original do eBook Elevator Pitch – Lauren Freitas.
